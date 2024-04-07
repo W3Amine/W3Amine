@@ -1,6 +1,6 @@
 # WebDesigner Wordpress / Full Stack Web Developer! 👋
 
-I'm Amine Bkhit, a passionate Web Developer based in Tangier, Morocco. Welcome to my corner of the internet! 🌐
+I'm Amine , a passionate Web Developer based in Tangier, Morocco. Welcome to my corner of the internet! 🌐
 
 ## About Me
 I'm all about crafting elegant and user-friendly websites that leave a lasting impression. With a blend of creativity and technical expertise, I strive to bring ideas to life in the digital realm. Whether it's building sleek e-commerce platforms or dynamic web applications, I'm up for the challenge!
